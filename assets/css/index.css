@@ -15,7 +15,7 @@
 .container-box {
   width: 85%;
   /* height: 880px; */
-  height: 100%;
+  height: 90vh;
   border-radius: 3rem;
   border: var(--border);
   box-shadow: var(--shadow);
